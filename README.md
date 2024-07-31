@@ -2,4 +2,4 @@
 
 Meu nome é Isabella
 
--Estou estudando no Alura;
+- Estou estudando no Alura;
