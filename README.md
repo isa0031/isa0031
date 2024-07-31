@@ -2,6 +2,6 @@
 
 Meu nome é Isabella
 
-- Estou estudando no Alura
+- Estou estudando na Alura
 
 ![](https://media.tenor.com/8nKtYuN8pmUAAAAM/chopper-toni-chopper.gif)
